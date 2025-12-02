@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+data/
+venv/
+.dvc/
+.mlflow/
+*.sqlite
+secrets/*
